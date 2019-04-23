@@ -1,0 +1,104 @@
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.deps.json
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.runtimeconfig.json
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.runtimeconfig.dev.json
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.pdb
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.xml
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.Views.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.Views.pdb
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Data.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Managers.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model2.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\ServiceStack.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\ServiceStack.OrmLite.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\ServiceStack.OrmLite.SqlServer.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\ServiceStack.ServiceInterface.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\soapsuds.exe
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Data.pdb
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Managers.pdb
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model.pdb
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model2.pdb
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.csprojAssemblyReference.cache
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.csproj.CoreCompileInputs.cache
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorAssemblyInfo.cache
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorAssemblyInfo.cs
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.AssemblyInfoInputs.cache
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.AssemblyInfo.cs
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.TagHelpers.input.cache
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.TagHelpers.output.cache
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorCoreGenerate.cache
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\Razor\Views\Index.g.cshtml.cs
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorTargetAssemblyInfo.cache
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorTargetAssemblyInfo.cs
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.Views.pdb
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.csproj.CopyComplete
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.xml
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.pdb
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.deps.json
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.runtimeconfig.json
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.runtimeconfig.dev.json
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.dll
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.pdb
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.xml
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.Views.dll
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.Views.pdb
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Data.dll
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Managers.dll
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model.dll
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model2.dll
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Data.pdb
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Managers.pdb
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model.pdb
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model2.pdb
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.csprojAssemblyReference.cache
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.csproj.CoreCompileInputs.cache
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorAssemblyInfo.cache
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorAssemblyInfo.cs
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.AssemblyInfoInputs.cache
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.AssemblyInfo.cs
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.TagHelpers.input.cache
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.TagHelpers.output.cache
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorCoreGenerate.cache
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\Razor\Views\Index.g.cshtml.cs
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorTargetAssemblyInfo.cache
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorTargetAssemblyInfo.cs
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.Views.pdb
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.csproj.CopyComplete
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.dll
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.xml
+E:\New folder\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.pdb
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.deps.json
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.runtimeconfig.json
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.runtimeconfig.dev.json
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.dll
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.pdb
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.xml
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.Views.dll
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\DotNetCoreWebAPI.Views.pdb
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Data.dll
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Managers.dll
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model.dll
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model2.dll
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Data.pdb
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Managers.pdb
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model.pdb
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\bin\Debug\netcoreapp2.2\Model2.pdb
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.csprojAssemblyReference.cache
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.csproj.CoreCompileInputs.cache
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorAssemblyInfo.cache
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorAssemblyInfo.cs
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.AssemblyInfoInputs.cache
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.AssemblyInfo.cs
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.TagHelpers.input.cache
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.TagHelpers.output.cache
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorCoreGenerate.cache
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\Razor\Views\Index.g.cshtml.cs
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorTargetAssemblyInfo.cache
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.RazorTargetAssemblyInfo.cs
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.Views.pdb
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.csproj.CopyComplete
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.dll
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.xml
+E:\Angular5\.Net Core Web API\DotNetCoreWebAPI - DatabaseFirst\DotNetCoreWebAPI\obj\Debug\netcoreapp2.2\DotNetCoreWebAPI.pdb
