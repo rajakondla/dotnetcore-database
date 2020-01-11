@@ -14,7 +14,7 @@ namespace DotNetCoreWebAPI.Controllers
     public class UserController : Controller
     {
         private IUserManager _userMgr;
-
+        // added code for CI trigger
         public UserController(IUserManager userMgr)
         {
             _userMgr = userMgr;
